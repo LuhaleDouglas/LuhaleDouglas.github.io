@@ -1,0 +1,77 @@
+body{
+	 
+	font-family: Georgia, Times;
+	padding: 20px;
+	text-decoration-color: white;
+	background:#0CF;
+}
+
+h1{
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	
+}
+
+h2{
+	text-transform: uppercase;
+	font-size: 16px;
+}
+
+p{
+	line-height: 200%
+	font-size: 14px;
+	padding: 5px; margin: 0px;
+	
+}
+
+div{
+	color: grey;
+
+}
+
+h1, h2{color: blue; text-align: center;}
+
+a: link{color: darkblue;
+padding-top:20px;
+padding-bottom: 10px;
+text-decoration:none;
+}
+a: visited{
+	color: red;
+}
+a: hover{
+	background-color: blue;
+	color: white;
+	text-decoration: underline;
+	font-weight: bold;
+}
+a: active{ background-color: orange; }
+
+table{border: 3px;}
+
+ul{padding: 30px;
+text-indent: 20px;
+}
+
+li{
+padding: 10px;
+text-indent: 20px;
+}
+
+p {line-height: 200%}
+
+blockquote {color: Green; font-style: italic; font-size: 120%; }
+figcaption{color: white;}
+img{align-content:  center;}
+
+footer{
+	text-align: center;
+	font-size: 15px;
+	color: white;
+}
+}
+content: {
+	display: inline-block;
+	width: 80px;
+}
